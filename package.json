@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "start": "node ./bin/www",
     "batch": "node index.js batch",
     "daily": "node index.js daily", 
     "test": "echo \"Error: no test specified\" && exit 1"
